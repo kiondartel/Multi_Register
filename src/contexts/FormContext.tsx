@@ -60,6 +60,9 @@ const formReducer = (state: State, action: Action) => {
     case FormActions.setGithub:
       return { ...state, github: action.payload };
 
+    case FormActions.setGithub:
+      return { ...state, setCpf: action.payload };
+
     default:
       return state;
   }
