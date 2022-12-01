@@ -1,11 +1,5 @@
 // Context (Armazena dados), Reducer, Provider, Hook
-import {
-  Children,
-  createContext,
-  ReactNode,
-  useContext,
-  useReducer,
-} from "react";
+import { createContext, ReactNode, useContext, useReducer } from "react";
 
 type State = {
   currentStep: Number;
