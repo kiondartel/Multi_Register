@@ -25,7 +25,7 @@ const Step2 = () => {
   //setando rota com UseNavigate
   const handleNextStep = () => {
     if (state.name !== "") {
-      navigate("/Step2");
+      navigate("/Step3");
     } else {
       alert("Preencha o formulario");
     }
