@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import back from "../../image/dale3.jpg";
 
 export const Container = styled.div`
   background-color: #02044a;
@@ -17,6 +18,9 @@ export const Area = styled.div`
 export const Steps = styled.div`
   flex: 1;
   display: flex;
+  background-image: url(${back});
+  background-position: center center;
+  background-size: cover;
 `;
 
 export const SideBar = styled.div`

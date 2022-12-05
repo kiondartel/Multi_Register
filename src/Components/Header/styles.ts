@@ -11,12 +11,12 @@ export const Container = styled.div`
   text-align: center;
 
   h1 {
-    font-size: 2rem;
-    color: black;
+    font-size: 2.5rem;
   }
 
   p {
-    font-size: 0.8rem;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
     color: black;
   }
 `;
