@@ -21,13 +21,13 @@ export const Title = styled.div`
   font-weight: bold;
   margin-bottom: 5px;
   font-size: 15px;
-  color: #fff;
+  color: black; ;
 `;
 
 export const Description = styled.div`
   text-align: right;
   font-size: 13px;
-  color: #b8b8d4;
+  color: #696969;
 `;
 
 export const IconArea = styled.div<{ active: boolean }>`

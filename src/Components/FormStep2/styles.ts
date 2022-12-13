@@ -15,11 +15,12 @@ export const Container = styled.div`
 
 export const H1 = styled.h1`
   font-size: 25px;
+  color: black;
 `;
 
 export const P = styled.p`
   font-size: 13px;
-  color: #b8b8d4;
+  color: black;
   margin-bottom: 1rem;
 `;
 

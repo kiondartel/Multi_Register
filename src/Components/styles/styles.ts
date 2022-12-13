@@ -19,7 +19,7 @@ export const Steps = styled.div`
   flex: 1;
   display: flex;
   background-image: url(${back});
-  background-position: center center;
+
   background-size: cover;
 `;
 

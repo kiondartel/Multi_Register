@@ -23,9 +23,10 @@ export const Title = styled.div`
   font-size: 17px;
   font-weight: bold;
   margin-bottom: 7px;
+  color: black;
 `;
 
 export const Description = styled.div`
   font-size: 14px;
-  color: #b8b8d4;
+  color: #696969;
 `;

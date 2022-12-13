@@ -1,15 +1,20 @@
 import styled from "styled-components";
 
-export const Container = styled.div``;
+export const Container = styled.div`
+  h1 {
+    color: #202020;
+  }
+`;
 
 export const P = styled.p`
   font-size: 13px;
-  color: #b8b8d4;
+  color: black;
   margin-bottom: 1rem;
 `;
 
 export const Label = styled.label`
   font-size: 0.9;
+  color: black;
 `;
 export const Input = styled.input`
   display: block;

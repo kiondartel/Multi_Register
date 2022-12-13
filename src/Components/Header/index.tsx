@@ -4,7 +4,6 @@ const Header = () => {
   return (
     <Styled.Container>
       <h1>INTEGRAL CLINIC</h1>
-      <p>Faça seu cadastro e agende já sua consulta.</p>
     </Styled.Container>
   );
 };

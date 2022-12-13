@@ -38,12 +38,12 @@ const Step1 = () => {
   return (
     <Theme>
       <Styled.Container>
-        <Styled.P>Passo 1/3 - </Styled.P>
-        <Styled.P>Preenja com seu nome completo</Styled.P>
-
+        <Styled.P>Passo 1/3 - {state.name}</Styled.P>
+        <h1>Informações do paciente</h1>
+        <Styled.P>Informe seus dados</Styled.P>
         <hr style={{ marginBottom: "0.8rem" }} />
         <Styled.Label>
-          Nome Completo:
+          Nome completo:
           <Styled.Input
             type="text"
             autoFocus
@@ -52,7 +52,7 @@ const Step1 = () => {
           />
         </Styled.Label>
         <Styled.Label>
-          CPF
+          Cpf:
           <Styled.Input type="text" />
         </Styled.Label>
         <Styled.Label>

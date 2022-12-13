@@ -11,7 +11,7 @@ export const Container = styled.div`
   text-align: center;
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
   }
 
   p {

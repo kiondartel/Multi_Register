@@ -15,12 +15,13 @@ export const Container = styled.div`
 
 export const P = styled.p`
   font-size: 13px;
-  color: #b8b8d4;
+  color: #000;
   margin-bottom: 1rem;
 `;
 
 export const Label = styled.label`
   font-size: 0.9;
+  color: #000;
 `;
 export const Input = styled.input`
   display: block;
