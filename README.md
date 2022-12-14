@@ -21,7 +21,7 @@ This is my app \o/
 
 ![Homepage image](https://github.com/kiondartel/IntegralClinic-Multi-Cadastro/blob/master/public/readme/1.png)
 
-### 2 - Preenchido os dados do paciente, se direcionado para tela de consultas.
+### 2 - Preenchido os dados do paciente, sera direcionado para tela de consultas.
 
 ![Posts](https://github.com/kiondartel/IntegralClinic-Multi-Cadastro/blob/master/public/readme/2.png)
 
